@@ -6,6 +6,7 @@
     * What's PyTorch
     * Autograd
     * Neural Networks
+    * Training A Classifier
   * Learning PyTorch with Examples
   * What's torch.nn really?
   * Visualizing Models, Data, and Training with TensorBoard
@@ -14,3 +15,5 @@
 Example: 
 Neural networks.ipynb
 ![](./fig/Example.png)
+Training A Classifier.ipynb
+![](./fig/data_normalization.png)
