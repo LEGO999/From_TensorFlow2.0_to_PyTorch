@@ -10,3 +10,7 @@
   * What's torch.nn really?
   * Visualizing Models, Data, and Training with TensorBoard
 * PyTorch Recipes
+
+Example: 
+Neural networks.ipynb
+![](./fig/Example.png)
