@@ -17,3 +17,5 @@ Neural networks.ipynb
 ![](./fig/Example.png)
 Training A Classifier.ipynb
 ![](./fig/data_normalization.png)
+Learning PyTorch with examples
+![](./fig/chain_rule_differentiation.png)
