@@ -16,6 +16,6 @@ Example:
 Neural networks.ipynb
 ![](./fig/Example.png)
 Training A Classifier.ipynb
-![](./fig/data_normalization.png)
-Learning PyTorch with examples
-![](./fig/chain_rule_differentiation.png)
+![](./fig/data_normalization.png)  
+Learning PyTorch with Examples.ipynb
+<img src="./fig/chain_rule_differentiation.png" alt="图片替换文本" width="500" height="1300" align="centre" />
